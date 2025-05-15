@@ -27,16 +27,8 @@ This project demonstrates a custom Windows shellcode loader designed to execute 
 3. Once executed, it connects back to the Havoc teamserver.
 4. BOF tasks executed: privilege enumeration, `ipconfig`, etc.
 
-## Screenshots
-
-- **Windows Defender active during execution**
-- **Shellcode running via PowerShell**
-- **Havoc C2 with successful session and BOF command outputs**
 
 ## Disclaimer
 
 This tool is intended for educational and authorized red team use only. Unauthorized usage against systems you do not own or have explicit permission to test is illegal.
 
-## Author
-
-Subhash M — [LinkedIn](https://www.linkedin.com/in/subhashmurugan)
